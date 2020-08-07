@@ -6,3 +6,7 @@ def multify(x,y):
 
 def sub(x,y):
     pass
+
+def he(x,y):
+    pass
+    
